@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = StarWarsBlazor
 build_property.RootNamespace = StarWarsBlazor
-build_property.ProjectDir = C:\Users\leobo\Desktop\projetos\Star Wars\StarWarsBlazor\StarWarsBlazor\
+build_property.ProjectDir = c:\Users\leobo\Desktop\projetos\Star Wars\StarWarsBlazor\StarWarsBlazor\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\leobo\Desktop\projetos\Star Wars\StarWarsBlazor\StarWarsBlazor
+build_property.MSBuildProjectDirectory = c:\Users\leobo\Desktop\projetos\Star Wars\StarWarsBlazor\StarWarsBlazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/App.razor]
+[c:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Pages/Counter.razor]
+[c:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Pages/FetchData.razor]
+[c:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Pages/Index.razor]
+[c:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Pages/Planets.razor]
+[c:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Pages/Planets.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhbmV0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Shared/SurveyPrompt.razor]
+[c:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/_Imports.razor]
+[c:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Shared/MainLayout.razor]
+[c:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-92nq4lo21s
 
-[C:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Shared/NavMenu.razor]
+[c:/Users/leobo/Desktop/projetos/Star Wars/StarWarsBlazor/StarWarsBlazor/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-5cob9s65ng
